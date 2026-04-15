@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <div class="wrapper">
+        <form action="login.html" target="_blank">
+            <fieldset> <legend style="font-size: xx-large; background-color: #f70909;">Registration Form</legend>
+        
+       <label for="name">Write your name</label>
+        <input type="text" name="" id="name" placeholder="Your name here" required>
+        <br><br>
+        <style>label[for="age"] { background-color: lightgreen; padding: 5px; border-radius: 3px; }</style>
+        <label for="age">Write your age</label>
+        <input type="number" name="" min="10" placeholder="Your age here" required>
+        <br><br>
+        <label for="bio">Short Bio</label>
+        <textarea name="" id="bio" cols="30" rows="10" placeholder="Write a short bio about yourself"></textarea>
+        <br><br>
+        <label for="job">Select your job</label>
+        <select name="" id="job">
+            <option value="student">Student</option>
+            <option value="teacher">Teacher</option>
+            <option value="engineer"> Engineer </option>
+            <option value="other">Other</option>
+        </select>
+        <br><br>
+         <div class="expression">
+            <h2>Your Expression</h2>
+            <label for="ex" >Expression </label>
+            <input type="radio" name="ex" id="ex" value="expression" required>
+            <br><br>
+            <label for="h">Happy</label>
+            <input type="radio" name="ex" id="h" value="happy">
+            <br><br>
+            <label for="s">Sad</label>
+            <input type="radio" name="ex" id="s" value="sad">
+            <br><br>
+            <label for="a">Angry</label>
+            <input type="radio" name="ex" id="a" value="angry">
+    </div>
+            <br><br>
+        <input type="submit" value="Submit">
+        </fieldset>
+        </form>
+       
+</body>
+</html>
