@@ -131,7 +131,7 @@ This is a personal learning repo, but suggestions and improvements are always we
 ## 📬 Contact
 
 * GitHub: https://github.com/vishalrj291
-* LinkedIn: (Add your profile)
+* LinkedIn:(https://www.linkedin.com/in/vishal-raj-530a1b322/)
 
 ---
 
@@ -141,3 +141,10 @@ This is not just a tutorial dump.
 Every folder, project, and commit is part of a structured plan to become a **serious full stack developer**.
 
 ---
+## Projects
+1. Youtube Premium Ui
+   https://youtube-premium-ui-zoni.vercel.app/
+2. Sneaker Store
+   https://sneaker-store-oebk7q7p2-vishal-rajs-projects-975f9546.vercel.app/
+4. Whatsapp Ui
+   https://whatsapp-ui-clone-9uuq.vercel.app/
