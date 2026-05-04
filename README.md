@@ -58,7 +58,7 @@ MERN-Journey/
 ## 📈 Learning Roadmap
 
 * [x] HTML & CSS Basics
-* [x] JavaScript Fundamentals
+* [ ] JavaScript Fundamentals
 * [ ] Advanced JavaScript (ES6+)
 * [ ] React.js (Core + Hooks)
 * [ ] Backend with Node.js & Express
